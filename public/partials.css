@@ -1,0 +1,10 @@
+.navlinks {
+  display: flex;
+  padding-top: 150px;
+  margin: 25px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+
